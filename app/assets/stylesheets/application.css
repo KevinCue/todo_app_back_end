@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+table,th,td{
+    border: 3px solid black;
+    color:blue;
+}
+td
+#elt1 {color: green;} 
+table, td{
+    padding: 10px;
+    padding-right:10px
+}
+.completed{
+    text-align:center;
+    background-color:red;
+}
+.done{
+    color: rgb(210,210,210);
+}
