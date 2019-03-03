@@ -1,0 +1,171 @@
+remote: Compressing source files... done.        
+remote: Building source:        
+remote: 
+remote: -----> Ruby app detected        
+remote: -----> Compiling Ruby/Rails        
+remote: -----> Using Ruby version: ruby-2.5.3        
+remote: -----> Installing dependencies using bundler 1.15.2        
+remote:        Running: bundle install --without development:test --path vendor/bundle --binstubs vendor/bundle/bin -j4 --deployment        
+remote:        Warning: the running version of Bundler (1.15.2) is older than the version that created the lockfile (1.15.4). We suggest you upgrade to the latest version of Bundler by running `gem install bundler`.        
+remote:        Fetching gem metadata from https://rubygems.org/.............        
+remote:        Fetching version metadata from https://rubygems.org/..        
+remote:        Fetching dependency metadata from https://rubygems.org/.        
+remote:        Fetching rake 12.3.2        
+remote:        Fetching concurrent-ruby 1.1.4        
+remote:        Fetching minitest 5.11.3        
+remote:        Installing rake 12.3.2        
+remote:        Installing minitest 5.11.3        
+remote:        Installing concurrent-ruby 1.1.4        
+remote:        Fetching thread_safe 0.3.6        
+remote:        Installing thread_safe 0.3.6        
+remote:        Fetching builder 3.2.3        
+remote:        Installing builder 3.2.3        
+remote:        Fetching erubis 2.7.0        
+remote:        Installing erubis 2.7.0        
+remote:        Fetching mini_portile2 2.4.0        
+remote:        Installing mini_portile2 2.4.0        
+remote:        Fetching crass 1.0.4        
+remote:        Installing crass 1.0.4        
+remote:        Fetching rack 1.6.11        
+remote:        Installing rack 1.6.11        
+remote:        Fetching mini_mime 1.0.1        
+remote:        Installing mini_mime 1.0.1        
+remote:        Fetching arel 6.0.4        
+remote:        Installing arel 6.0.4        
+remote:        Using bundler 1.15.2        
+remote:        Fetching coffee-script-source 1.12.2        
+remote:        Installing coffee-script-source 1.12.2        
+remote:        Fetching execjs 2.7.0        
+remote:        Installing execjs 2.7.0        
+remote:        Fetching thor 0.20.3        
+remote:        Installing thor 0.20.3        
+remote:        Fetching ffi 1.9.18        
+remote:        Installing ffi 1.9.18 with native extensions        
+remote:        Fetching multi_json 1.12.1        
+remote:        Installing multi_json 1.12.1        
+remote:        Fetching json 1.8.6        
+remote:        Fetching pg 0.21.0        
+remote:        Installing json 1.8.6 with native extensions        
+remote:        Installing pg 0.21.0 with native extensions        
+remote:        Fetching rb-fsevent 0.10.2        
+remote:        Installing rb-fsevent 0.10.2        
+remote:        Fetching rdoc 4.3.0        
+remote:        Installing rdoc 4.3.0        
+remote:        Fetching tilt 2.0.8        
+remote:        Installing tilt 2.0.8        
+remote:        Fetching turbolinks-source 5.0.3        
+remote:        Installing turbolinks-source 5.0.3        
+remote:        Fetching tzinfo 1.2.5        
+remote:        Installing tzinfo 1.2.5        
+remote:        Fetching nokogiri 1.10.1        
+remote:        Installing nokogiri 1.10.1 with native extensions        
+remote:        Fetching i18n 0.9.5        
+remote:        Installing i18n 0.9.5        
+remote:        Fetching mail 2.7.1        
+remote:        Installing mail 2.7.1        
+remote:        Fetching coffee-script 2.4.1        
+remote:        Installing coffee-script 2.4.1        
+remote:        Fetching uglifier 3.2.0        
+remote:        Installing uglifier 3.2.0        
+remote:        Fetching rack-test 0.6.3        
+remote:        Installing rack-test 0.6.3        
+remote:        Fetching sprockets 3.7.2        
+remote:        Installing sprockets 3.7.2        
+remote:        Fetching turbolinks 5.0.1        
+remote:        Installing turbolinks 5.0.1        
+remote:        Fetching rb-inotify 0.9.10        
+remote:        Installing rb-inotify 0.9.10        
+remote:        Fetching activesupport 4.2.10        
+remote:        Installing activesupport 4.2.10        
+remote:        Fetching sass-listen 4.0.0        
+remote:        Installing sass-listen 4.0.0        
+remote:        Fetching rails-deprecated_sanitizer 1.0.3        
+remote:        Installing rails-deprecated_sanitizer 1.0.3        
+remote:        Fetching globalid 0.4.2        
+remote:        Installing globalid 0.4.2        
+remote:        Fetching activemodel 4.2.10        
+remote:        Installing activemodel 4.2.10        
+remote:        Fetching jbuilder 2.7.0        
+remote:        Installing jbuilder 2.7.0        
+remote:        Fetching sass 3.5.1        
+remote:        Installing sass 3.5.1        
+remote:        Fetching activejob 4.2.10        
+remote:        Installing activejob 4.2.10        
+remote:        Fetching activerecord 4.2.10        
+remote:        Installing activerecord 4.2.10        
+remote:        Fetching rails-dom-testing 1.0.9        
+remote:        Fetching loofah 2.2.3        
+remote:        Installing rails-dom-testing 1.0.9        
+remote:        Installing loofah 2.2.3        
+remote:        Fetching rails-html-sanitizer 1.0.4        
+remote:        Installing rails-html-sanitizer 1.0.4        
+remote:        Fetching sdoc 0.4.2        
+remote:        Fetching actionview 4.2.10        
+remote:        Installing sdoc 0.4.2        
+remote:        Installing actionview 4.2.10        
+remote:        Fetching actionpack 4.2.10        
+remote:        Installing actionpack 4.2.10        
+remote:        Fetching railties 4.2.10        
+remote:        Fetching actionmailer 4.2.10        
+remote:        Fetching sprockets-rails 3.2.1        
+remote:        Installing actionmailer 4.2.10        
+remote:        Installing sprockets-rails 3.2.1        
+remote:        Installing railties 4.2.10        
+remote:        Fetching jquery-rails 4.3.1        
+remote:        Fetching rails 4.2.10        
+remote:        Fetching coffee-rails 4.1.1        
+remote:        Installing coffee-rails 4.1.1        
+remote:        Fetching sass-rails 5.0.6        
+remote:        Installing sass-rails 5.0.6        
+remote:        Installing jquery-rails 4.3.1        
+remote:        Installing rails 4.2.10        
+remote:        Bundle complete! 12 Gemfile dependencies, 55 gems now installed.        
+remote:        Gems in the groups development and test were not installed.        
+remote:        Bundled gems are installed into ./vendor/bundle.        
+remote:        Bundle completed (43.47s)        
+remote:        Cleaning up the bundler cache.        
+remote: -----> Installing node-v10.14.1-linux-x64        
+remote: -----> Detecting rake tasks        
+remote: -----> Preparing app for Rails asset pipeline        
+remote:        Running: rake assets:precompile        
+remote:        I, [2019-03-03T20:13:51.234727 #1300]  INFO -- : Writing /tmp/build_c8e53d3dc72e5afde0b5791534682e18/public/assets/application-ad3e83216db9b766b2aa05911fd0d5a01115e7381b10f9a5ea03569a93856d44.js        
+remote:        I, [2019-03-03T20:13:51.235140 #1300]  INFO -- : Writing /tmp/build_c8e53d3dc72e5afde0b5791534682e18/public/assets/application-ad3e83216db9b766b2aa05911fd0d5a01115e7381b10f9a5ea03569a93856d44.js.gz        
+remote:        I, [2019-03-03T20:13:51.249440 #1300]  INFO -- : Writing /tmp/build_c8e53d3dc72e5afde0b5791534682e18/public/assets/application-af329355aa9ec022f8ce34988d78a81b405f351c89d15755fd292ca361e7880c.css        
+remote:        I, [2019-03-03T20:13:51.249978 #1300]  INFO -- : Writing /tmp/build_c8e53d3dc72e5afde0b5791534682e18/public/assets/application-af329355aa9ec022f8ce34988d78a81b405f351c89d15755fd292ca361e7880c.css.gz        
+remote:        Asset precompilation completed (3.77s)        
+remote:        Cleaning assets        
+remote:        Running: rake assets:clean        
+remote: -----> Detecting rails configuration        
+remote: 
+remote: [1m[33m###### WARNING:[0m        
+remote: 
+remote:        Include 'rails_12factor' gem to enable all platform features        
+remote:        See https://devcenter.heroku.com/articles/rails-integration-gems for more information.        
+remote: 
+remote: [1m[33m###### WARNING:[0m        
+remote: 
+remote:        You have not declared a Ruby version in your Gemfile.        
+remote:        To set your Ruby version add this line to your Gemfile:        
+remote:        ruby '2.5.3'        
+remote:        # See https://devcenter.heroku.com/articles/ruby-versions for more information.        
+remote: 
+remote: [1m[33m###### WARNING:[0m        
+remote: 
+remote:        No Procfile detected, using the default web server.        
+remote:        We recommend explicitly declaring how to boot your server process via a Procfile.        
+remote:        https://devcenter.heroku.com/articles/ruby-default-web-server        
+remote: 
+remote: 
+remote: -----> Discovering process types        
+remote:        Procfile declares types     -> (none)        
+remote:        Default types for buildpack -> console, rake, web        
+remote: 
+remote: -----> Compressing...        
+remote:        Done: 44.9M        
+remote: -----> Launching...        
+remote:        Released v6        
+remote:        https://kevin-cuello-todo-app.herokuapp.com/ deployed to Heroku        
+remote: 
+remote: Verifying deploy... done.        
+To https://git.heroku.com/kevin-cuello-todo-app.git
+ * [new branch]      master -> master
